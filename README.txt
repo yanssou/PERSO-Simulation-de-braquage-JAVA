@@ -1,6 +1,7 @@
 # CASA DE PIXEL
 
-Simulation d'un braquage codé entièrement en Java et qui se déroule sur le terminal. Les braqueurs doivent ramasser les billets de banque dispersés sur le sol sans se faire attrapper par les policiers.
+Les braqueurs se déplacent aléatoirement sur le terrain (qui ici est une banque) en ramassant de l’argent disposé aléatoirement sur ce dernier sans se faire tuer par les policiers qui arriveront sur le terrain à la position (0,0). Des otages sont concentrés dans un endroit précis du terrain (0,0). Les policiers peuvent tuer les braqueurs et inversement, ils peuvent aussi sauver des otages un par un s’ils se retrouvent sur la même case que ces derniers. 
+Les braqueurs perdent s’il n’y a plus d’otages ou si les policiers les ont tous tués,Ils gagnent si ils arrivent à voler tous l’argent présent sur le terrain. 
 
 
 
