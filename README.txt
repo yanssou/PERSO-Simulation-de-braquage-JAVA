@@ -1,3 +1,9 @@
+# CASA DE PIXEL
+
+Simulation d'un braquage codé entièrement en Java et qui se déroule sur le terminal. Les braqueurs doivent ramasser les billets de banque dispersés sur le sol sans se faire attrapper par les policiers.
+
+
+
 Dans TestSimulation : 
 
 -Vous pouvez modifier la valeur de LIASSE afin de définir la valeur d'une ressource ,
